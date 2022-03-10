@@ -366,124 +366,117 @@
 			<Item Name="WriteSetPoint.vi" Type="VI" URL="../../../drivers/Oxford ITC/ITCSUBS.LLB/WriteSetPoint.vi"/>
 		</Item>
 		<Item Name="Build-Spezifikationen" Type="Build">
-			<Item Name="Micro-PL Drive Calibration v10.0" Type="EXE">
+			<Item Name="Micro-PL Drive Calibration v10.6.1" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{A7D2C4EA-E698-4A4D-9563-DFBE6663DD82}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{56DE4975-4100-46A2-B295-D9DAF384CFF5}</Property>
 				<Property Name="App_INI_itemID" Type="Ref">/Mein Computer/Dots.ini</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">Micro-PL Drive Calibration v10.0</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Micro-PL Drive Calibration v10.6.1</Property>
 				<Property Name="Bld_defaultLanguage" Type="Str">German</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/D/Projekte/Promotion/Scripts/LabView/builds/Correlation-Setup/Micro-PL Drive Calibration v10.0</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../Micro-PL/build/Micro-PL Drive Calibration v10.6.1</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
-				<Property Name="Destination[0].destName" Type="Str">Micro-PL Drive Calibration v10.0.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/D/Projekte/Promotion/Scripts/LabView/builds/Correlation-Setup/Micro-PL Drive Calibration v10.0/Micro-PL Drive Calibration v10.0.exe</Property>
-				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].destName" Type="Str">Micro-PL Drive Calibration v10.6.1.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../NI_AB_PROJECTNAME/build/Micro-PL Drive Calibration v10.6.1/Micro-PL Drive Calibration v10.6.1.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Hilfsdatei-Verzeichnis</Property>
-				<Property Name="Destination[1].path" Type="Path">/D/Projekte/Promotion/Scripts/LabView/builds/Correlation-Setup/Micro-PL Drive Calibration v10.0/data</Property>
-				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/build/Micro-PL Drive Calibration v10.6.1/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/Mein Computer/Symbol.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{06514689-0BD3-478E-9FA0-E7A02AD8997D}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{98091DDA-8620-4078-B7F0-FC6E6C153FFC}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/Mein Computer/Main/Micro-PL Drive Calibration v10.0.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/Mein Computer/vi/Micro-PL Drive Calibration v10.6.1.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Universität Duisburg-Essen - IngWiss - EIT - WET</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">Micro-PL Drive Calibration v10.0</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Micro-PL Drive Calibration v10.6.1</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">10</Property>
-				<Property Name="TgtF_internalName" Type="Str">Micro-PL Drive Calibration v10.0</Property>
+				<Property Name="TgtF_fileVersion.minor" Type="Int">6</Property>
+				<Property Name="TgtF_fileVersion.patch" Type="Int">1</Property>
+				<Property Name="TgtF_internalName" Type="Str">Micro-PL Drive Calibration v10.6.1</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2021 Alexander Schmitz, Fakultät für Ingenieurwissenschaften - Universität Duisburg-Essen</Property>
 				<Property Name="TgtF_productName" Type="Str">Micro-PL Drive Calibration</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{1B382A49-5E8A-4519-A59E-0E7BF2178DA7}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">Micro-PL Drive Calibration v10.0.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Micro-PL Drive Calibration v10.6.1.exe</Property>
 			</Item>
-			<Item Name="Micro-PL Stability Test v10.0" Type="EXE">
+			<Item Name="Micro-PL Stability Test v10.5.1" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{81B5DC2F-A58D-4EC2-A80D-1064088169C7}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{397BD99D-C938-49BC-9C69-4EE0A66B7673}</Property>
 				<Property Name="App_INI_itemID" Type="Ref">/Mein Computer/Dots.ini</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">Micro-PL Stability Test v10.0</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Micro-PL Stability Test v10.5.1</Property>
 				<Property Name="Bld_defaultLanguage" Type="Str">German</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/D/Projekte/Promotion/Scripts/LabView/builds/Correlation-Setup/Micro-PL Stability Test v10.0</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../Micro-PL/build/Micro-PL Stability Test v10.5.1</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
-				<Property Name="Destination[0].destName" Type="Str">Micro-PL Stability Test v10.0.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/D/Projekte/Promotion/Scripts/LabView/builds/Correlation-Setup/Micro-PL Stability Test v10.0/Micro-PL Stability Test v10.0.exe</Property>
-				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].destName" Type="Str">Micro-PL Stability Test v10.5.1.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../NI_AB_PROJECTNAME/build/Micro-PL Stability Test v10.5.1/Micro-PL Stability Test v10.5.1.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Hilfsdatei-Verzeichnis</Property>
-				<Property Name="Destination[1].path" Type="Path">/D/Projekte/Promotion/Scripts/LabView/builds/Correlation-Setup/Micro-PL Stability Test v10.0/data</Property>
-				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/build/Micro-PL Stability Test v10.5.1/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/Mein Computer/Symbol.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{06514689-0BD3-478E-9FA0-E7A02AD8997D}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{98091DDA-8620-4078-B7F0-FC6E6C153FFC}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/Mein Computer/Main/Micro-PL Stability Test v10.0.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/Mein Computer/vi/Micro-PL Stability Test v10.5.1.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Universität Duisburg-Essen - IngWiss - EIT - WET</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">10</Property>
-				<Property Name="TgtF_internalName" Type="Str">Micro-PL Stability Test v10.0</Property>
+				<Property Name="TgtF_fileVersion.minor" Type="Int">5</Property>
+				<Property Name="TgtF_fileVersion.patch" Type="Int">1</Property>
+				<Property Name="TgtF_internalName" Type="Str">Micro-PL Stability Test v10.5.1</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2021 Alexander Schmitz, Fakultät für Ingenieurwissenschaften - Universität Duisburg-Essen</Property>
 				<Property Name="TgtF_productName" Type="Str">Micro-PL Stability Test</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{FE83647C-3980-4261-9EFD-A3415AE1B439}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">Micro-PL Stability Test v10.0.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Micro-PL Stability Test v10.5.1.exe</Property>
 			</Item>
-			<Item Name="Micro-PL v10.3" Type="EXE">
+			<Item Name="Micro-PL v10.6.2" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{22B680C4-22A6-472D-B066-2F272DFA15F5}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{937F884D-432C-45E9-A3B4-078F355EB782}</Property>
 				<Property Name="App_INI_itemID" Type="Ref">/Mein Computer/Dots.ini</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">Micro-PL v10.3</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Micro-PL v10.6.2</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/D/Projekte/Promotion/Scripts/LabView/builds/Correlation-Setup/Micro-PL v10.3</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../Micro-PL/build/Micro-PL v10.6.2</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
-				<Property Name="Destination[0].destName" Type="Str">Micro-PL v10.3.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/D/Projekte/Promotion/Scripts/LabView/builds/Correlation-Setup/Micro-PL v10.3/Micro-PL v10.3.exe</Property>
-				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].destName" Type="Str">Micro-PL v10.6.2.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../NI_AB_PROJECTNAME/build/Micro-PL v10.6.2/Micro-PL v10.6.2.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Hilfsdatei-Verzeichnis</Property>
-				<Property Name="Destination[1].path" Type="Path">/D/Projekte/Promotion/Scripts/LabView/builds/Correlation-Setup/Micro-PL v10.3/data</Property>
-				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/build/Micro-PL v10.6.2/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/Mein Computer/Symbol.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{06514689-0BD3-478E-9FA0-E7A02AD8997D}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{98091DDA-8620-4078-B7F0-FC6E6C153FFC}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/Mein Computer/Main/Micro-PL v10.0.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/Mein Computer/vi/Micro-PL v10.6.2.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
-				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/Mein Computer/Main/Micro-PL v10.1.vi</Property>
-				<Property Name="Source[2].type" Type="Str">VI</Property>
-				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[3].itemID" Type="Ref">/Mein Computer/Main/Micro-PL v10.2.vi</Property>
-				<Property Name="Source[3].type" Type="Str">VI</Property>
-				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[4].itemID" Type="Ref">/Mein Computer/Main/Micro-PL v10.3.vi</Property>
-				<Property Name="Source[4].sourceInclusion" Type="Str">TopLevel</Property>
-				<Property Name="Source[4].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">5</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Universität Duisburg-Essen - IngWiss - EIT - WET</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Driver for measurements and automated mapping with the Micro-PL setup.</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">10</Property>
-				<Property Name="TgtF_fileVersion.minor" Type="Int">3</Property>
-				<Property Name="TgtF_internalName" Type="Str">Micro-PL v10.3</Property>
+				<Property Name="TgtF_fileVersion.minor" Type="Int">6</Property>
+				<Property Name="TgtF_fileVersion.patch" Type="Int">2</Property>
+				<Property Name="TgtF_internalName" Type="Str">Micro-PL v10.6.2</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2021 Alexander Schmitz, Fakultät für Ingenieurwissenschaften - Universität Duisburg-Essen</Property>
-				<Property Name="TgtF_productName" Type="Str">Micro-PL Drive</Property>
+				<Property Name="TgtF_productName" Type="Str">Micro-PL</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{F933D7D1-9991-4FE9-A4F7-4F2E467ADFFD}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">Micro-PL v10.3.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Micro-PL v10.6.2.exe</Property>
 			</Item>
 		</Item>
 	</Item>
