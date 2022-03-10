@@ -1,0 +1,289 @@
+embeddedFonts: []
+fontsAlias:
+  fontSerifBold: "Constantia Bold"
+  fontSerifBoldItalic: "Constantia Bold Italic"
+  fontSerif: "Constantia"
+  fontSerifItalic: "Constantia Italic"
+  fontMono: "Consolas"
+  fontMonoBold: "Consolas Bold"
+  fontMonoBoldItalic: "Consolas Bold Italic"
+  fontMonoItalic: "Consolas Italic"
+  fontSans: "Calibri"
+  fontSansBold: "Calibri Bold"
+  fontSansBoldItalic: "Calibri Bold Italic"
+  fontSansItalic: "Calibri Italic"
+linkColor: "#11086A"
+pageSetup:
+  firstTemplate: docsCover
+  height: null
+  width: null
+  size: A4
+  margin-top: 1.25cm
+  margin-bottom: 0.5cm
+  margin-left: 2.5cm
+  margin-right: 2.5cm
+  margin-gutter: 0cm
+  spacing-header: 1.25cm
+  spacing-footer: 1.25cm
+pageTemplates:
+  docsPage:
+    frames:
+    - - 0%
+      - 0%
+      - 100%
+      - 100%
+    showFooter: true
+    showHeader: true
+  docsCover:
+    frames:
+    - - 0%
+      - 0%
+      - 100%
+      - 100%
+    showFooter: false
+    showHeader: false
+styles:
+  bodytext:
+    spaceBefore: 0
+    spaceAfter: 8
+    fontName: fontSerif
+    fontSize: 12
+  bullet-list-item:
+    spaceBefore: 8
+    spaceAfter: 8
+    parent: bodytext
+  code:
+    backColor: "#EFF1F3"
+    borderColor: null
+    borderPadding:
+    - 6
+    - 12
+    - 6
+    - 12
+    borderWidth: 0
+    leftIndent: 10
+    rightIndent: 10
+    parent: literal
+    spaceAfter: 8
+    spaceBefore: 8
+  desc:
+    parent: bodytext
+  descname:
+    parent: desc
+  figure:
+    spaceBefore: 12
+    leftIndent: 20
+  figure-caption:
+    alignment: TA_CENTER
+    fontName: fontSans
+    fontSize: 10
+    leftIndent: 30
+    rightIndent: 20
+    spaceBefore: 3
+    spaceAfter: 8
+  figure-tight:
+    spaceBefore: 0
+    parent: figure
+  footer:
+    alignment: TA_RIGHT
+    parent: bodytext
+    fontSize: 9
+    spaceAfter: 3
+  footertable:
+    parent: table
+    commands:
+    - - LINEABOVE
+      - - 0
+        - 0
+      - - -1
+        - 0
+      - 0.5
+      - black
+  footerbody-right:
+    parent: headerbody
+    alignment: TA_RIGHT
+    fontName: fontSerif
+  footerbody-left:
+    parent: headerbody
+    alignment: TA_LEFT
+    fontName: fontSerif
+  header:
+    alignment: TA_CENTER
+    parent: bodytext
+    fontSize: 9
+    spaceAfter: 3
+  headertable:
+    parent: table
+    commands:
+    - - LINEBELOW
+      - - 0
+        - 0
+      - - -1
+        - 0
+      - 0.5
+      - black
+  headerbody:
+    parent: table-body
+    alignment: TA_CENTER
+    fontName: fontSerifBold
+    fontSize: 9
+    spaceBefore: 0
+    spaceAfter: 3
+  headerbody-sup:
+    parent: headerbody
+    fontName: fontSerifItalic
+  heading:
+    keepWithNext: true
+    parent: normal
+    spaceBefore: 12
+    spaceAfter: 6
+    fontName: fontSansBold
+    fontSize: 10
+    textColor: black
+  heading1:
+    fontSize: 180%
+    spaceBefore: 24
+    spaceAfter: 3
+    keepWithNext: true
+    parent: heading
+  heading2:
+    fontSize: 160%
+    parent: heading
+  heading3:
+    fontSize: 140%
+    parent: heading
+  heading4:
+    fontSize: 120%
+    fontName: fontSans
+    space-after: 0
+    parent: heading
+  underline:
+    underline: true
+  item-list:
+    colWidths:
+    - 20pt
+    - null
+    commands:
+    - - VALIGN
+      - - 0
+        - 0
+      - - -1
+        - -1
+      - TOP
+    - - RIGHTPADDING
+      - - 0
+        - 0
+      - - 1
+        - -1
+      - 0
+    parent: bodytext
+    spaceBefore: 6
+  item-list-item:
+    spaceBefore: 6
+    spaceAfter: 3
+    parent: bodytext
+  literal:
+    firstLineIndent: 0
+    fontName: fontMonoItalic
+    fontSize: 10
+    hyphenation: false
+    parent: normal
+    wordWrap: null
+    backColor: "#EFF1F3"
+    textColor: "#408080"
+  table:
+    spaceAfter: 10
+    commands:
+    - - VALIGN
+      - - 0
+        - 0
+      - - -1
+        - -1
+      - TOP
+    - - ROWBACKGROUNDS
+      - - 0
+        - 0
+      - - -1
+        - -1
+      - - white
+    - - LINEBELOW
+      - - 0
+        - 0
+      - - -1
+        - -1
+      - 1
+      - black
+    - - BOTTOMPADDING
+      - - 0
+        - 1
+      - - -1
+        - -1
+      - 5
+    - - TOPPADDING
+      - - 0
+        - 1
+      - - -1
+        - -1
+      - 5
+    - - ALIGNMENT
+      - - 1
+        - 0
+      - - 1
+        - -1
+      - CENTER
+  table-heading:
+    parent : bodytext
+    backColor : white
+    alignment : TA_CENTER
+  table-body:
+    alignment : TA_LEFT
+    parent: bodytext
+  table-center:
+    alignment: TA_CENTER
+    fontName: fontSerifItalic
+    parent: table-body
+  table-title:
+    alignment: TA_CENTER
+    keepWithNext: false
+    parent: heading4
+  tableofcontents:
+    parent: bodytext
+  title:
+    alignment: TA_CENTER
+    fontSize: 240%
+    keepWithNext: true
+    parent: heading
+    spaceBefore: 0
+    spaceAfter: 36
+  title-sub:
+    alignment: TA_CENTER
+    fontSize: 200%
+    keepWithNext: false
+    parent: heading
+    spaceAfter: 36
+  title-sup:
+    alignment: TA_CENTER
+    fontSize: 200%
+    fontName: fontSansItalic
+    keepWithNext: true
+    parent: heading
+    spaceAfter: 0
+  title-reference:
+    fontName: fontSansItalic
+    parent: normal
+  toc:
+    parent: bodytext
+    fontName: fontSans
+    fontSize: 12
+  toc1:
+    fontName: fontSansBold
+    parent: toc
+  toc2:
+    leftIndent: 20
+    parent: toc
+  toc3:
+    leftIndent: 40
+    parent: toc
+  toc4:
+    leftIndent: 60
+    parent: toc

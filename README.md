@@ -30,15 +30,15 @@ Further, this package includes functionality from the [**Video Toolset**](https:
 ### `Micro-PL`
 For a detailed description of the interface, available device settings and how to conduct measurements, please refer to the [*User Guide*](https://github.com/sfadschm/Micro-PL/blob/develop/docs/build) or the [*Wiki*](https://github.com/sfadschm/Micro-PL/wiki).
 
-### Supporting Tools
+### Device Calibration
 The package includes two tools for calibrating the movement of piezo actuators and monitoring the spatial stability of the sample.
 
 Both tools record snapshot sequences from a video device connected to the computer via the *Video Toolset*. Therefore, a digital microscope should be focussed on a calibration sample, which should consist of repetetive geometric patterns (ideally circles) with known dimensions and distances.
 
-The image sequences can subsequentially be evaluated in suitable image processing software. Good and fast results can, e.g., be gained using the [**ImageJ**](https://imagej.net/software/fiji/) [*TrackMate*](https://imagej.net/plugins/trackmate/) plugin.
+The image sequences can subsequentially be evaluated in suitable image processing software. Good and fast results can, e.g., be achieved using the [**ImageJ**](https://imagej.net/software/fiji/) [*TrackMate*](https://imagej.net/plugins/trackmate/) plugin.
 
 #### `Micro-PL Stability Test`
-This tool allows monitoring the stability of the sample setup by recording in configurable time intervals for a defined period of time.
+This tool allows monitoring the stability of the sample setup by recording snapshots in configurable time intervals for a defined period of time.
 
 #### `Micro-PL Drive Calibration`
 This tool can be used for calibrating electro-strictive and piezo actuators in open-loop operation. It ramps the controller voltage in the selected range with a configurable step size and records a snapshot at each point of the ramp.
