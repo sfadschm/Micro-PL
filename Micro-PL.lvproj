@@ -18,6 +18,7 @@
 		<Item Name="LICENSE" Type="Document" URL="../LICENSE"/>
 		<Item Name="README.md" Type="Document" URL="../README.md"/>
 		<Item Name="Symbol.ico" Type="Document" URL="../../../Symbol.ico"/>
+		<Item Name="Video Toolset.exe.config" Type="Document" URL="../../Video Toolset/config/Video Toolset.exe.config"/>
 		<Item Name="Abhängigkeiten" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
@@ -386,13 +387,16 @@
 				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/build/Micro-PL Drive Calibration v10.6.1/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/Mein Computer/Symbol.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{98091DDA-8620-4078-B7F0-FC6E6C153FFC}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{31226145-54E0-4020-8C51-4249F7AD103F}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/Mein Computer/vi/Micro-PL Drive Calibration v10.6.1.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/Mein Computer/Video Toolset.exe.config</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="SourceCount" Type="Int">3</Property>
 				<Property Name="TgtF_companyName" Type="Str">Universität Duisburg-Essen - IngWiss - EIT - WET</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Micro-PL Drive Calibration v10.6.1</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">10</Property>
@@ -424,13 +428,16 @@
 				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/build/Micro-PL Stability Test v10.5.1/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/Mein Computer/Symbol.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{98091DDA-8620-4078-B7F0-FC6E6C153FFC}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{31226145-54E0-4020-8C51-4249F7AD103F}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/Mein Computer/vi/Micro-PL Stability Test v10.5.1.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/Mein Computer/Video Toolset.exe.config</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="SourceCount" Type="Int">3</Property>
 				<Property Name="TgtF_companyName" Type="Str">Universität Duisburg-Essen - IngWiss - EIT - WET</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">10</Property>
 				<Property Name="TgtF_fileVersion.minor" Type="Int">5</Property>
@@ -460,7 +467,7 @@
 				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/build/Micro-PL v10.6.3/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/Mein Computer/Symbol.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{C250446D-E120-4F90-9792-AE4832B6CF60}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{31226145-54E0-4020-8C51-4249F7AD103F}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/Mein Computer/vi/Micro-PL v10.6.2.vi</Property>
@@ -469,7 +476,10 @@
 				<Property Name="Source[2].itemID" Type="Ref">/Mein Computer/vi/Micro-PL v10.6.3.vi</Property>
 				<Property Name="Source[2].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[2].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">3</Property>
+				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/Mein Computer/Video Toolset.exe.config</Property>
+				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="SourceCount" Type="Int">4</Property>
 				<Property Name="TgtF_companyName" Type="Str">Universität Duisburg-Essen - IngWiss - EIT - WET</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Driver for measurements and automated mapping with the Micro-PL setup.</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">10</Property>
