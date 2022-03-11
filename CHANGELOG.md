@@ -1,8 +1,10 @@
 # Changelog
 
 ## Micro-PL
-### v10.6.3 (2022-03-10)
+### v10.6.3 (2022-03-11)
+**Fixed Bugs:**
 - Auto-save mapping progress every 20 % to backup memory issues during manual save.
+- Automatically set drive and CCD to simulate mode if not connected on mapoing start.
 
 ### v10.6.2 (2022-02-10)
 **Implemented Enhancements:**
