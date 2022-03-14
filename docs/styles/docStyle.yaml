@@ -71,7 +71,7 @@ styles:
   descname:
     parent: desc
   figure:
-    spaceBefore: 12
+    spaceBefore: 0
     leftIndent: 20
   figure-caption:
     alignment: TA_CENTER
