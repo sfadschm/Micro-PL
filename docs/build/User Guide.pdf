@@ -3538,7 +3538,7 @@ endobj
 endobj
 74 0 obj
 <<
-/Author () /CreationDate (D:20220314215542-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220314215542-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20220407150114-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220407150114-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title () /Trapped /False
 >>
 endobj
@@ -3618,7 +3618,7 @@ Q
 q
 1 0 0 1 76.86614 625.8236 cm
 q
-BT 1 0 0 1 0 2.4 Tm 14.4 TL 0 0 0 rg /F2+0 12 Tf 14.4 TL (Last Update:) Tj /F3+0 12 Tf 14.4 TL ( 11.03.2022 \(v10.6.3\)) Tj T* ET
+BT 1 0 0 1 0 2.4 Tm 14.4 TL 0 0 0 rg /F2+0 12 Tf 14.4 TL (Last Update:) Tj /F3+0 12 Tf 14.4 TL ( 07.04.2022 \(v10.6.4\)) Tj T* ET
 Q
 Q
 q
@@ -5677,22 +5677,22 @@ endstream
 endobj
 94 0 obj
 <<
-/Length 7191
+/Length 7222
 >>
 stream
 1 0 0 1 0 0 cm 
 q
-1 0 0 1 76.86614 153.6236 cm
+1 0 0 1 76.86614 139.2236 cm
 q
 1 1 1 rg
-n 0 564.8 441.5433 -20.4 re f*
+n 0 579.2 441.5433 -20.4 re f*
 1 1 1 rg
-n 0 544.4 441.5433 -544.4 re f*
+n 0 558.8 441.5433 -558.8 re f*
 1 1 1 rg
-n 0 564.8 441.5433 -20.4 re f*
+n 0 579.2 441.5433 -20.4 re f*
 0 0 0 rg
 q
-1 0 0 1 6 547.4 cm
+1 0 0 1 6 561.8 cm
 q
 1 1 1 rg
 n 0 0 142.5402 14.4 re f*
@@ -5703,7 +5703,7 @@ BT 1 0 0 1 0 2.4 Tm 52.90387 0 Td /F1+0 12 Tf 14.4 TL (Section) Tj T* -52.90387 
 Q
 Q
 q
-1 0 0 1 160.5402 547.4 cm
+1 0 0 1 160.5402 561.8 cm
 q
 1 1 1 rg
 n 0 0 275.0031 14.4 re f*
@@ -5715,7 +5715,7 @@ Q
 Q
 0 0 0 rg
 q
-1 0 0 1 6 525 cm
+1 0 0 1 6 539.4 cm
 q
 .937255 .945098 .952941 rg
 n 0 0 5.498047 14.4 re f*
@@ -5727,21 +5727,21 @@ BT 1 0 0 1 0 4.4 Tm 14.4 TL .25098 .501961 .501961 rg /F7+0 10 Tf 14.4 TL ( ) Tj
 Q
 Q
 q
-1 0 0 1 160.5402 510.6 cm
+1 0 0 1 160.5402 525 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 16.8 Tm /F3+0 12 Tf 14.4 TL (Defines the general conditions for the mapping) Tj T* (acquisition.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 160.5402 488.2 cm
+1 0 0 1 160.5402 502.6 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2.4 Tm /F2+0 12 Tf 14.4 TL (Simulating Devices) Tj T* ET
 Q
 Q
 q
-1 0 0 1 160.5402 422.6 cm
+1 0 0 1 160.5402 437 cm
 q
 .937255 .945098 .952941 rg
 n 61.98659 43.2 5.416149 14.4 re f*
@@ -5767,7 +5767,7 @@ BT 1 0 0 1 0 45.6 Tm -0.081898 Tw 14.4 TL 0 0 0 rg /F3+0 12 Tf 14.4 TL (Ticking 
 Q
 Q
 q
-1 0 0 1 160.5402 357 cm
+1 0 0 1 160.5402 371.4 cm
 q
 .937255 .945098 .952941 rg
 n 0 14.4 5.498047 14.4 re f*
@@ -5782,16 +5782,16 @@ q
 1 0 0 1 160.5402 305.8 cm
 q
 .937255 .945098 .952941 rg
-n 23.07422 28.8 5.498047 14.4 re f*
+n 23.07422 43.2 5.498047 14.4 re f*
 .937255 .945098 .952941 rg
-n 28.57227 28.8 43.98438 14.4 re f*
+n 28.57227 43.2 43.98438 14.4 re f*
 .937255 .945098 .952941 rg
-n 72.55664 28.8 5.498047 14.4 re f*
+n 72.55664 43.2 5.498047 14.4 re f*
 .937255 .945098 .952941 rg
-n 78.05469 28.8 43.98438 14.4 re f*
+n 78.05469 43.2 43.98438 14.4 re f*
 .937255 .945098 .952941 rg
-n 122.0391 28.8 5.498047 14.4 re f*
-BT 1 0 0 1 0 31.2 Tm 14.4 TL 0 0 0 rg /F3+0 12 Tf 14.4 TL (The ) Tj .25098 .501961 .501961 rg /F7+0 10 Tf 14.4 TL ( ) Tj (Simulate) Tj ( ) Tj (Spectra?) Tj ( ) Tj 0 0 0 rg /F3+0 12 Tf 14.4 TL ( mode will generate a) Tj T* (pseudo-random constant spectrum at each point of) Tj T* (the map instead of collecting data from the detector.) Tj T* ET
+n 122.0391 43.2 5.498047 14.4 re f*
+BT 1 0 0 1 0 45.6 Tm 14.4 TL 0 0 0 rg /F3+0 12 Tf 14.4 TL (The ) Tj .25098 .501961 .501961 rg /F7+0 10 Tf 14.4 TL ( ) Tj (Simulate) Tj ( ) Tj (Spectra?) Tj ( ) Tj 0 0 0 rg /F3+0 12 Tf 14.4 TL ( mode will generate single) Tj T* (lorentzian peak spectra with narrow linewidths at) Tj T* (random points of the map instead of collecting data) Tj T* (from the detector.) Tj T* ET
 Q
 Q
 q
@@ -5866,8 +5866,8 @@ q
 1 j
 0 0 0 RG
 1 w
-n 0 544.4 m 441.5433 544.4 l S
-n 0 544.4 m 441.5433 544.4 l S
+n 0 558.8 m 441.5433 558.8 l S
+n 0 558.8 m 441.5433 558.8 l S
 n 0 0 m 441.5433 0 l S
 Q
 Q
@@ -6630,25 +6630,25 @@ xref
 0000700126 00000 n 
 0000702408 00000 n 
 0000707921 00000 n 
-0000715164 00000 n 
-0000724863 00000 n 
-0000730128 00000 n 
-0000730286 00000 n 
-0000730320 00000 n 
-0000730354 00000 n 
-0000730389 00000 n 
-0000730424 00000 n 
-0000730459 00000 n 
-0000730494 00000 n 
-0000730529 00000 n 
-0000730564 00000 n 
-0000730599 00000 n 
-0000730635 00000 n 
-0000730671 00000 n 
+0000715195 00000 n 
+0000724894 00000 n 
+0000730159 00000 n 
+0000730317 00000 n 
+0000730351 00000 n 
+0000730385 00000 n 
+0000730420 00000 n 
+0000730455 00000 n 
+0000730490 00000 n 
+0000730525 00000 n 
+0000730560 00000 n 
+0000730595 00000 n 
+0000730630 00000 n 
+0000730666 00000 n 
+0000730702 00000 n 
 trailer
 <<
 /ID 
-[<7edcb05d888f4c989cb4ba2234bc077f><7edcb05d888f4c989cb4ba2234bc077f>]
+[<c0ad9c5681b414bb35d200a568cd598c><c0ad9c5681b414bb35d200a568cd598c>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 74 0 R
@@ -6656,7 +6656,7 @@ trailer
 /Size 110
 >>
 startxref
-730707
+730738
 %%EOF
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
@@ -10198,7 +10198,7 @@ endobj
 endobj
 74 0 obj
 <<
-/Author () /CreationDate (D:20220314215543-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220314215543-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20220407150115-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220407150115-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title () /Trapped /False
 >>
 endobj
@@ -10278,7 +10278,7 @@ Q
 q
 1 0 0 1 76.86614 625.8236 cm
 q
-BT 1 0 0 1 0 2.4 Tm 14.4 TL 0 0 0 rg /F2+0 12 Tf 14.4 TL (Last Update:) Tj /F3+0 12 Tf 14.4 TL ( 11.03.2022 \(v10.6.3\)) Tj T* ET
+BT 1 0 0 1 0 2.4 Tm 14.4 TL 0 0 0 rg /F2+0 12 Tf 14.4 TL (Last Update:) Tj /F3+0 12 Tf 14.4 TL ( 07.04.2022 \(v10.6.4\)) Tj T* ET
 Q
 Q
 q
@@ -12337,22 +12337,22 @@ endstream
 endobj
 94 0 obj
 <<
-/Length 7191
+/Length 7222
 >>
 stream
 1 0 0 1 0 0 cm 
 q
-1 0 0 1 76.86614 153.6236 cm
+1 0 0 1 76.86614 139.2236 cm
 q
 1 1 1 rg
-n 0 564.8 441.5433 -20.4 re f*
+n 0 579.2 441.5433 -20.4 re f*
 1 1 1 rg
-n 0 544.4 441.5433 -544.4 re f*
+n 0 558.8 441.5433 -558.8 re f*
 1 1 1 rg
-n 0 564.8 441.5433 -20.4 re f*
+n 0 579.2 441.5433 -20.4 re f*
 0 0 0 rg
 q
-1 0 0 1 6 547.4 cm
+1 0 0 1 6 561.8 cm
 q
 1 1 1 rg
 n 0 0 142.5402 14.4 re f*
@@ -12363,7 +12363,7 @@ BT 1 0 0 1 0 2.4 Tm 52.90387 0 Td /F1+0 12 Tf 14.4 TL (Section) Tj T* -52.90387 
 Q
 Q
 q
-1 0 0 1 160.5402 547.4 cm
+1 0 0 1 160.5402 561.8 cm
 q
 1 1 1 rg
 n 0 0 275.0031 14.4 re f*
@@ -12375,7 +12375,7 @@ Q
 Q
 0 0 0 rg
 q
-1 0 0 1 6 525 cm
+1 0 0 1 6 539.4 cm
 q
 .937255 .945098 .952941 rg
 n 0 0 5.498047 14.4 re f*
@@ -12387,21 +12387,21 @@ BT 1 0 0 1 0 4.4 Tm 14.4 TL .25098 .501961 .501961 rg /F7+0 10 Tf 14.4 TL ( ) Tj
 Q
 Q
 q
-1 0 0 1 160.5402 510.6 cm
+1 0 0 1 160.5402 525 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 16.8 Tm /F3+0 12 Tf 14.4 TL (Defines the general conditions for the mapping) Tj T* (acquisition.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 160.5402 488.2 cm
+1 0 0 1 160.5402 502.6 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2.4 Tm /F2+0 12 Tf 14.4 TL (Simulating Devices) Tj T* ET
 Q
 Q
 q
-1 0 0 1 160.5402 422.6 cm
+1 0 0 1 160.5402 437 cm
 q
 .937255 .945098 .952941 rg
 n 61.98659 43.2 5.416149 14.4 re f*
@@ -12427,7 +12427,7 @@ BT 1 0 0 1 0 45.6 Tm -0.081898 Tw 14.4 TL 0 0 0 rg /F3+0 12 Tf 14.4 TL (Ticking 
 Q
 Q
 q
-1 0 0 1 160.5402 357 cm
+1 0 0 1 160.5402 371.4 cm
 q
 .937255 .945098 .952941 rg
 n 0 14.4 5.498047 14.4 re f*
@@ -12442,16 +12442,16 @@ q
 1 0 0 1 160.5402 305.8 cm
 q
 .937255 .945098 .952941 rg
-n 23.07422 28.8 5.498047 14.4 re f*
+n 23.07422 43.2 5.498047 14.4 re f*
 .937255 .945098 .952941 rg
-n 28.57227 28.8 43.98438 14.4 re f*
+n 28.57227 43.2 43.98438 14.4 re f*
 .937255 .945098 .952941 rg
-n 72.55664 28.8 5.498047 14.4 re f*
+n 72.55664 43.2 5.498047 14.4 re f*
 .937255 .945098 .952941 rg
-n 78.05469 28.8 43.98438 14.4 re f*
+n 78.05469 43.2 43.98438 14.4 re f*
 .937255 .945098 .952941 rg
-n 122.0391 28.8 5.498047 14.4 re f*
-BT 1 0 0 1 0 31.2 Tm 14.4 TL 0 0 0 rg /F3+0 12 Tf 14.4 TL (The ) Tj .25098 .501961 .501961 rg /F7+0 10 Tf 14.4 TL ( ) Tj (Simulate) Tj ( ) Tj (Spectra?) Tj ( ) Tj 0 0 0 rg /F3+0 12 Tf 14.4 TL ( mode will generate a) Tj T* (pseudo-random constant spectrum at each point of) Tj T* (the map instead of collecting data from the detector.) Tj T* ET
+n 122.0391 43.2 5.498047 14.4 re f*
+BT 1 0 0 1 0 45.6 Tm 14.4 TL 0 0 0 rg /F3+0 12 Tf 14.4 TL (The ) Tj .25098 .501961 .501961 rg /F7+0 10 Tf 14.4 TL ( ) Tj (Simulate) Tj ( ) Tj (Spectra?) Tj ( ) Tj 0 0 0 rg /F3+0 12 Tf 14.4 TL ( mode will generate single) Tj T* (lorentzian peak spectra with narrow linewidths at) Tj T* (random points of the map instead of collecting data) Tj T* (from the detector.) Tj T* ET
 Q
 Q
 q
@@ -12526,8 +12526,8 @@ q
 1 j
 0 0 0 RG
 1 w
-n 0 544.4 m 441.5433 544.4 l S
-n 0 544.4 m 441.5433 544.4 l S
+n 0 558.8 m 441.5433 558.8 l S
+n 0 558.8 m 441.5433 558.8 l S
 n 0 0 m 441.5433 0 l S
 Q
 Q
@@ -13293,25 +13293,25 @@ xref
 0000700126 00000 n 
 0000702408 00000 n 
 0000707921 00000 n 
-0000715164 00000 n 
-0000724863 00000 n 
-0000730161 00000 n 
-0000730319 00000 n 
-0000730353 00000 n 
-0000730387 00000 n 
-0000730422 00000 n 
-0000730457 00000 n 
-0000730492 00000 n 
-0000730527 00000 n 
-0000730562 00000 n 
-0000730597 00000 n 
-0000730632 00000 n 
-0000730668 00000 n 
-0000730704 00000 n 
+0000715195 00000 n 
+0000724894 00000 n 
+0000730192 00000 n 
+0000730350 00000 n 
+0000730384 00000 n 
+0000730418 00000 n 
+0000730453 00000 n 
+0000730488 00000 n 
+0000730523 00000 n 
+0000730558 00000 n 
+0000730593 00000 n 
+0000730628 00000 n 
+0000730663 00000 n 
+0000730699 00000 n 
+0000730735 00000 n 
 trailer
 <<
 /ID 
-[<71e0d55d8c62ef17bc987c9ebf01361b><71e0d55d8c62ef17bc987c9ebf01361b>]
+[<95d6272e7725d83ce049cd94c7503bcc><95d6272e7725d83ce049cd94c7503bcc>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 74 0 R
@@ -13319,5 +13319,5 @@ trailer
 /Size 110
 >>
 startxref
-730740
+730771
 %%EOF

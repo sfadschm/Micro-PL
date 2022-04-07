@@ -1,6 +1,13 @@
 # Changelog
 
 ## Micro-PL
+### v10.6.4 (2022-04-07)
+**Implemented Enhancements:**
+- Generate "real" random Lorentzian spectra in mapping simulation mode.
+
+**Internal Changes:**
+- Adjust mapping countdown for better execution time prediction.
+
 ### v10.6.3 (2022-03-11)
 **Fixed Bugs:**
 - Auto-save mapping progress every 20 % to backup memory issues during manual save.

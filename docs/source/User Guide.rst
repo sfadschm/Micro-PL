@@ -9,7 +9,7 @@
 
    |front-subtitle|
 
-**Last Update:** 11.03.2022 (v10.6.3)
+**Last Update:** 07.04.2022 (v10.6.4)
 
 This is a LabView 2010 project for controlling a custom-built Micro-Photoluminescence setup.
 
@@ -227,7 +227,7 @@ Microscope images can be collected with the `Video Toolset <https://github.com/s
 
        This can, e.g., be useful to run a pseudo-timetrace at a certain sample spot (however, note that the :literal:`\  Preview \ ` mode of the main VI can achieve the same goal much easier).
 
-       The :literal:`\  Simulate Spectra? \ ` mode will generate a pseudo-random constant spectrum at each point of the map instead of collecting data from the detector.
+       The :literal:`\  Simulate Spectra? \ ` mode will generate single lorentzian peak spectra with narrow linewidths at random points of the map instead of collecting data from the detector.
 
        If activated, the :literal:`\  Integration \ ` and :literal:`\  Repetition \ ` settings of the detector will be ignored.
 
