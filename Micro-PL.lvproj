@@ -448,48 +448,51 @@
 				<Property Name="TgtF_targetfileGUID" Type="Str">{FE83647C-3980-4261-9EFD-A3415AE1B439}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Micro-PL Stability Test v10.5.1.exe</Property>
 			</Item>
-			<Item Name="Micro-PL v10.6.3" Type="EXE">
+			<Item Name="Micro-PL v10.6.4" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{22B680C4-22A6-472D-B066-2F272DFA15F5}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{937F884D-432C-45E9-A3B4-078F355EB782}</Property>
 				<Property Name="App_INI_itemID" Type="Ref">/Mein Computer/Dots.ini</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">Micro-PL v10.6.3</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Micro-PL v10.6.4</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../Micro-PL/build/Micro-PL v10.6.3</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../Micro-PL/build/Micro-PL v10.6.4</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
-				<Property Name="Destination[0].destName" Type="Str">Micro-PL v10.6.3.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../NI_AB_PROJECTNAME/build/Micro-PL v10.6.3/Micro-PL v10.6.3.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">Micro-PL v10.6.4.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../NI_AB_PROJECTNAME/build/Micro-PL v10.6.4/Micro-PL v10.6.4.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Hilfsdatei-Verzeichnis</Property>
-				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/build/Micro-PL v10.6.3/data</Property>
+				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/build/Micro-PL v10.6.4/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/Mein Computer/Symbol.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{31226145-54E0-4020-8C51-4249F7AD103F}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{8335E6B1-FDD5-469B-BBAC-599945896D59}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/Mein Computer/vi/Micro-PL v10.6.2.vi</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[2].itemID" Type="Ref">/Mein Computer/vi/Micro-PL v10.6.3.vi</Property>
-				<Property Name="Source[2].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[2].type" Type="Str">VI</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[3].itemID" Type="Ref">/Mein Computer/Video Toolset.exe.config</Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="SourceCount" Type="Int">4</Property>
+				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/Mein Computer/vi/Micro-PL v10.6.4.vi</Property>
+				<Property Name="Source[4].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[4].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">5</Property>
 				<Property Name="TgtF_companyName" Type="Str">Universität Duisburg-Essen - IngWiss - EIT - WET</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Driver for measurements and automated mapping with the Micro-PL setup.</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">10</Property>
 				<Property Name="TgtF_fileVersion.minor" Type="Int">6</Property>
-				<Property Name="TgtF_fileVersion.patch" Type="Int">3</Property>
-				<Property Name="TgtF_internalName" Type="Str">Micro-PL v10.6.3</Property>
+				<Property Name="TgtF_fileVersion.patch" Type="Int">4</Property>
+				<Property Name="TgtF_internalName" Type="Str">Micro-PL v10.6.4</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2021 Alexander Schmitz, Fakultät für Ingenieurwissenschaften - Universität Duisburg-Essen</Property>
 				<Property Name="TgtF_productName" Type="Str">Micro-PL</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{F933D7D1-9991-4FE9-A4F7-4F2E467ADFFD}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">Micro-PL v10.6.3.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Micro-PL v10.6.4.exe</Property>
 			</Item>
 		</Item>
 	</Item>
